@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I am a passionate person about technology :zap:  
-#### Contact me [Antonio Serrat](https://www.linkedin.com/in/Antonio-Serrat/)
+#### | Java developer | Api-REST | :zap:  
+#### Contact me on Linkedin [Antonio Serrat](https://www.linkedin.com/in/Antonio-Serrat/)
 #
 ### Languages and Tools
 
