@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### | Java developer | Api-REST | :zap:  
+#### | developer | Api-REST | :zap:  
 #### Contact me on Linkedin [Antonio Serrat](https://www.linkedin.com/in/Antonio-Serrat/)
 #
 ### Languages and Tools
