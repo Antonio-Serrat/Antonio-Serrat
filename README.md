@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div width= "300px" height="300px" background = "red"></div>
  
-<code><img height="35" src="https://e7.pngegg.com/pngimages/562/868/png-clipart-java-robocode-programming-language-jar-jar-text-logo.png"></code>
+<code><img height="35" src="https://img2.freepng.es/20190318/wcr/kisspng-clip-art-logo-desktop-wallpaper-java-enterprise-ed-java-logo-maximize22-317-5c8f9d1dbf6202.4579908715529157417839.jpg"></code>
 <code><img height="35" src="https://picodotdev.github.io/blog-bitix/assets/images/logotypes/spring.svg"></code>
 <code><img height="30" src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
