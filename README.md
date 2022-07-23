@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div width= "300px" height="300px" background = "red"></div>
  
-<code><img height="35" src="https://decimodan.com/skills/java.png"></code>
+<code><img height="35" src="https://e7.pngegg.com/pngimages/562/868/png-clipart-java-robocode-programming-language-jar-jar-text-logo.png"></code>
 <code><img height="35" src="https://picodotdev.github.io/blog-bitix/assets/images/logotypes/spring.svg"></code>
 <code><img height="30" src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://repository-images.githubusercontent.com/233450313/aab78f80-432c-11ea-80f4-3eeebac4d126"></code>
 <code><img height="30" src="https://img.icons8.com/color/50/000000/jira.png"></code>
 <code><img height="35" src="https://img.icons8.com/color-glass/48/000000/api-settings.png"></code>
-<code><img height="35" src="[https://e7.pngegg.com/pngimages/342/131/png-clipart-penguin-tux-design-logo-linux-penguin-animals-logo.png](https://img1.freepng.es/20180330/hhw/kisspng-linux-unix-operating-systems-command-line-interfac-linux-5abe15b50a7845.9382991715224068370429.jpg)"></code>
+<code><img height="35" src="https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"></code>
