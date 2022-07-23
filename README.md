@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://repository-images.githubusercontent.com/233450313/aab78f80-432c-11ea-80f4-3eeebac4d126"></code>
 <code><img height="30" src="https://img.icons8.com/color/50/000000/jira.png"></code>
 <code><img height="35" src="https://img.icons8.com/color-glass/48/000000/api-settings.png"></code>
-<code><img height="35" src="https://e7.pngegg.com/pngimages/342/131/png-clipart-penguin-tux-design-logo-linux-penguin-animals-logo.png"></code>
+<code><img height="35" src="[https://e7.pngegg.com/pngimages/342/131/png-clipart-penguin-tux-design-logo-linux-penguin-animals-logo.png](https://img1.freepng.es/20180330/hhw/kisspng-linux-unix-operating-systems-command-line-interfac-linux-5abe15b50a7845.9382991715224068370429.jpg)"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"></code>
