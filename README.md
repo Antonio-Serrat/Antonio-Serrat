@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div width= "300px" height="300px" background = "red"></div>
  
-<code><img height="35" src="https://w7.pngwing.com/pngs/961/251/png-transparent-java-runtime-environment-programming-language-programmer-computer-programming-java-text-logo-software-developer.png"></code>
+<code><img height="35" src="https://e7.pngegg.com/pngimages/181/89/png-clipart-java-platform-enterprise-edition-scala-java-miscellaneous-logo.png"></code>
 <code><img height="35" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-1996.png"></code>
 <code><img height="35" src="https://picodotdev.github.io/blog-bitix/assets/images/logotypes/spring.svg"></code>
 <code><img height="30" src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png"></code>
